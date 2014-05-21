@@ -8,7 +8,9 @@ This Statamic plugin allows you to insert a responsive slideshow into posts, pag
 jQuery version 1.6 and up. [ResponsiveSlides.js](https://github.com/viljamis/ResponsiveSlides.js) version 1.54 is already included in this plugin.
 
 ## How To Install
-Put the `responsiveslides` folder into the `/_add-ons/` folder. That's it.
+Download the zip or clone this repo.
+
+Just make sure the contents and files end up in a folder called `responsiveslides`. Then put that folder into the `/_add-ons/` folder. That's it.
 
 ## How To Use
 First, put `{{ responsiveslides:head }}` wherever you prefer to load your CSS and Javascript files.
