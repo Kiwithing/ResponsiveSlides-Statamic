@@ -17,7 +17,7 @@ First, put `{{ responsiveslides:head }}` wherever you prefer to load your CSS an
 
 Second, set your parameters. The `name` is required since it is a unique identifier.
 
-For example: `{{ responsiveslides name="unique_slideshow" auto="true" maxwidth="800"}}`
+For example: `{{ responsiveslides name="unique_slideshow" auto="true" maxwidth="800" }}`
 
 Third, create an unordered list of your images with `rslides` as a class. Add a class with the same unique identifier as the `name` parameter. Here's an example of what you can do.
 
